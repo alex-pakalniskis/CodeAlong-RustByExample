@@ -1,0 +1,1 @@
+/home/alex/code/CodeAlongs/CodeAlong-RustByExample/06_Conversion/tryfrom_and_tryinto/target/debug/tryfrom_and_tryinto: /home/alex/code/CodeAlongs/CodeAlong-RustByExample/06_Conversion/tryfrom_and_tryinto/src/main.rs
